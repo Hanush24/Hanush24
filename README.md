@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Hanush S N</h1>
 <h3 align="center">Mechatronics Student Exploring Robotics, Automation & Simulation</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hanush24" alt="hanush24" /></a> </p>
-
 - 🔭 I’m currently working on **simulation-based robotics projects using ROS2 (Jazzy) and Gazebo**
 
 - 🌱 I’m currently learning **ROS2, Gazebo, Python, Linux, Git, URDF, Rviz, GitHub, Bash**
